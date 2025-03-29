@@ -46,7 +46,8 @@ https://github.com/Rahulrajangam/CMOS_inverter/blob/133ce52851e442ca9c81ff8d7f26
 
 ## Output
 #### 1.Transient Analysis Output
-https://github.com/Rahulrajangam/CMOS_inverter/blob/6b52e6233949d577d89be3847ada346db6ce0dd4/Screenshot%202025-03-19%20110541.png
+![image](https://github.com/user-attachments/assets/633beba2-2031-452f-86f1-5502c09772be)
+
 #### 2.DC Analysis Output
 https://github.com/Rahulrajangam/CMOS_inverter/blob/74aed822ef04a528d3780b54fb577a6c25df2f63/Screenshot%202025-03-22%20154734.png
 
